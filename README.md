@@ -18,3 +18,76 @@
 
 #### Report
 - **Yen-Chi Chen** and Shun-Shii Lin, "Requiem wins Nonogram tournament," ICGA journal, vol. 42, no. 1, pp. 49–52, May 28, 2020.
+
+### Awards
+🥇x29 🥈x9 🥉x6
+<details>
+<summary>Details</summary>
+
+  #### TCGA 2022
+  - 🥇 Othello 8x8
+  - 🥇 Nonogram
+  #### TAAI 2021
+  - 🥇 Othello 8x8
+  - 🥇 Nonogram
+  #### ICGA 2021
+  - 🥇 Nonogram
+  - 🥈 Othello 8x8
+  #### TCGA 2021
+  - 🥇 Othello 8x8
+  - 🥈 Nonogram
+  #### TAAI 2020
+  - 🥇 Othello 8x8
+  - 🥇 Nonogram
+  - 🥇 Honeymoon Bridge
+  #### ICGA 2020
+  - 🥇 Othello 8x8
+  - 🥇 Honeymoon Bridge
+  - 🥉 Nonogram
+  #### TCGA 2020
+  - 🥇 Othello 8x8
+  - 🥇 Honeymoon Bridge
+  - 🥉 Nonogram
+  #### TAAI 2019
+  - 🥇 Othello 8x8
+  - 🥇 Nonogram
+  #### ICGA 2019
+  - 🥇 Othello 8x8
+  - 🥇 Nonogram
+  #### TCGA 2019
+  - 🥇 Othello 8x8
+  - 🥇 Nonogram
+  #### TAAI 2018
+  - 🥇 Othello 8x8
+  - 🥇 Nonogram
+  #### ICGA 2018
+  - 🥇 Nonogram
+  - 🥈 Othello 8x8
+  #### TAAI 2017
+  - 🥇 Nonogram
+  - 🥈 Othello 8x8
+  #### ICGA 2017
+  - 🥇 Nonogram
+  #### TCGA 2017
+  - 🥈 Othello 8x8
+  - 🥉 Nonogram
+  #### COWC 2017
+  - 🥉 Othello 8x8
+  #### TAAI 2016
+  - 🥈 Nonogram
+  - 🥈 Othello 8x8
+  - 🥉 Outer-Open Gomoku
+  #### ICGA 2016
+  - 🥇 Nonogram
+  - 🥈 Othello 8x8
+  - 🥈 Outer-Open Gomoku
+  #### TCGA 2016
+  - 🥇 Othello 8x8
+  - 🥇 Outer-Open Gomoku
+  #### TAAI 2015
+  - 🥇 Othello 8x8
+  - 🥇 Nonogram
+  #### ICGA 2015
+  - 🥉 Othello 8x8
+
+</details>
