@@ -21,10 +21,14 @@
 - **Yen-Chi Chen** and Shun-Shii Lin, "Requiem wins Nonogram tournament," ICGA journal, vol. 42, no. 1, pp. 49–52, May 28, 2020.
 
 ### Awards
-🥇x31 🥈x11 🥉x6
+🥇x32 🥈x12 🥉x7
 <details>
 <summary>Details</summary>
 
+  #### TAAI 2022
+  - 🥇 Othello 8x8
+  - 🥈 Honeymoon Bridge
+  - 🥉 Nonogram
   #### ICGA 2022
   - 🥇 Othello 8x8
   - 🥇 Nonogram
