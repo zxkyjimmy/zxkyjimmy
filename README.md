@@ -7,6 +7,7 @@
 - **Yen-Chi Chen**, Jia-Fong Yeh, and Shun-Shii Lin, "Design and Implementation Aspects of a Surakarta Program," ICGA journal, vol. 40, no. 4, pp. 438–449, March 25, 2019.
 
 #### Conference papers
+- **Yen-Chi Chen**, Hao-En Kuan, Yen-Shun Lu, Tzu-Chun Chen, and I-Chen Wu, "Entropy-Based Two-Phase Optimization Algorithm for Solving Wordle-like Games," 2022 International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2022), Tainan, Taiwan, December 1-3, 2022.
 - Hao-En Kuan, Tzu-Chun Chen, Yen-Shun Lu, **Yen-Chi Chen**, and I-Chen Wu, "Being Greedy to Solve Nerdle: with Approaches Utilizing Entropy," Taiwan Computer Game Association (TCGA 2022), Nantou, Taiwan, May 13-14, 2022.
 - Chih-Hung Chen, **Yen-Chi Chen**, and Shun-Shii Lin, "Two-Phase-Win Strategy for Improving the AlphaZero's Strength," The 2nd World Symposium on Communication Engineering (WSCE 2019), Nagoya, Japan, December 20–23, 2019.
 - **Yen-Chi Chen**, Chih-Hung Chen, and Shun-Shii Lin, "Exact-Win Strategy for Overcoming AlphaZero," Proceedings of the 2018 International Conference on Computational Intelligence and Intelligent Systems (CIIS 2018), Phuket Island, Thailand, November 17–19, 2018.
