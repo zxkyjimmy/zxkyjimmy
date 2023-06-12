@@ -3,8 +3,9 @@
 ### Publications
 
 #### Journal papers
-- **Yen-Chi Chen** and Shun-Shii Lin, "A Fast Nonogram Solver that Won TAAI 2017 and ICGA 2018 Tournaments," ICGA journal, vol. 41, no. 1, pp. 2–14, June 14, 2019.
-- **Yen-Chi Chen**, Jia-Fong Yeh, and Shun-Shii Lin, "Design and Implementation Aspects of a Surakarta Program," ICGA journal, vol. 40, no. 4, pp. 438–449, March 25, 2019.
+- Tristan Cazenave, **Yen-Chi Chen**, Guan-Wei Chen, Shi-Yu Chen, Xian-Dong Chiu, Julien Dehos, Maria Elsa, Qucheng Gong, Hengyuan Hu, Vasil Khalidov, Cheng-Ling Li, Hsin-I Lin, Yu-Jin Lin, Xavier Martinet, Vegard Mella, Jeremy Rapin, Baptiste Roziere, Gabriel Synnaeve, Fabien Teytaud, Olivier Teytaud, Shi-Cheng Ye, Yi-Jun Ye, Shi-Jim Yen and Sergey Zagoruyko, "Polygames: Improved Zero Learning," ICGA Journal, vol. 42, no. 4, pp. 244-256, 2020.
+- **Yen-Chi Chen** and Shun-Shii Lin, "A Fast Nonogram Solver that Won TAAI 2017 and ICGA 2018 Tournaments," ICGA Journal, vol. 41, no. 1, pp. 2–14, June 14, 2019.
+- **Yen-Chi Chen**, Jia-Fong Yeh, and Shun-Shii Lin, "Design and Implementation Aspects of a Surakarta Program," ICGA Journal, vol. 40, no. 4, pp. 438–449, March 25, 2019.
 
 #### Conference papers
 - **Yen-Chi Chen**, Hao-En Kuan, Yen-Shun Lu, Tzu-Chun Chen, and I-Chen Wu, "Entropy-Based Two-Phase Optimization Algorithm for Solving Wordle-like Games," 2022 International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2022), Tainan, Taiwan, December 1-3, 2022.
