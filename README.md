@@ -17,7 +17,8 @@
 - **Yen-Chi Chen** and Shun-Shii Lin, "Design and Implementation of Computer Othello Program Maverick," The 2015 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2015), Tainan, Taiwan, November 20–22, 2015.
 
 #### arXiv
-- Tristan Cazenave, **Yen-Chi Chen**, Guan-Wei Chen, Shi-Yu Chen, Xian-Dong Chiu, Julien Dehos, Maria Elsa, Qucheng Gong, Hengyuan Hu, Vasil Khalidov, Cheng-Ling Li, Hsin-I Lin, Yu-Jin Lin, Xavier Martinet, Vegard Mella, Jeremy Rapin, Baptiste Roziere, Gabriel Synnaeve, Fabien Teytaud, Olivier Teytaud, Shi-Cheng Ye, Yi-Jun Ye, Shi-Jim Yen and Sergey Zagoruyko, "Polygames: Improved Zero Learning," arXiv: 2001.09832, January 27, 2020.
+- Kuo-Hao Ho, Ruei-Yu Jheng, Ji-Han Wu, Fan Chiang, **Yen-Chi Chen**, Yuan-Yu Wu, and I-Chen Wu, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem," arXiv: 2309.15517, September 27, 2023.
+- Tristan Cazenave, **Yen-Chi Chen**, Guan-Wei Chen, Shi-Yu Chen, Xian-Dong Chiu, Julien Dehos, Maria Elsa, Qucheng Gong, Hengyuan Hu, Vasil Khalidov, Cheng-Ling Li, Hsin-I Lin, Yu-Jin Lin, Xavier Martinet, Vegard Mella, Jeremy Rapin, Baptiste Roziere, Gabriel Synnaeve, Fabien Teytaud, Olivier Teytaud, Shi-Cheng Ye, Yi-Jun Ye, Shi-Jim Yen, and Sergey Zagoruyko, "Polygames: Improved Zero Learning," arXiv: 2001.09832, January 27, 2020.
 
 #### Report
 - **Yen-Chi Chen** and Shun-Shii Lin, "Requiem wins Nonogram tournament," ICGA journal, vol. 42, no. 1, pp. 49–52, May 28, 2020.
