@@ -9,6 +9,8 @@
 - **Yen-Chi Chen**, Jia-Fong Yeh, and Shun-Shii Lin, "Design and Implementation Aspects of a Surakarta Program," ICGA Journal, vol. 40, no. 4, pp. 438–449, March 25, 2019.
 
 #### Conference papers
+- Sheng-You Huang, Hsiao-Chuan Chang, **Yen-Chi Chen**, Ting-Han Wei, I-Hau Yeh, Sheng-Yao Kuan, Chien-Yao Wang, Hsuan-Han Lee, and I-Chen Wu, "A Robust and Efficient Multi-Agent Reinforcement Learning Framework for Traffic Signal Control", 2026 ITS World Congress, Gangneung, Korea, October 2026.
+- Hsiao-Chuan Chang, ShengYou Huang, **Yen-Chi Chen**, and I-Chen Wu, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", 2026 IEEE Intelligent Vehicles Symposium (IV 2026), Detroit, MI, USA, June 2026.
 - **Yen-Chi Chen**, Hao-En Kuan, Yen-Shun Lu, Tzu-Chun Chen, and I-Chen Wu, "Entropy-Based Two-Phase Optimization Algorithm for Solving Wordle-like Games," 2022 International Conference on Technologies and Applications of Artificial Intelligence (TAAI 2022), Tainan, Taiwan, December 1-3, 2022.
 - Hao-En Kuan, Tzu-Chun Chen, Yen-Shun Lu, **Yen-Chi Chen**, and I-Chen Wu, "Being Greedy to Solve Nerdle: with Approaches Utilizing Entropy," Taiwan Computer Game Association (TCGA 2022), Nantou, Taiwan, May 13-14, 2022.
 - Chih-Hung Chen, **Yen-Chi Chen**, and Shun-Shii Lin, "Two-Phase-Win Strategy for Improving the AlphaZero's Strength," The 2nd World Symposium on Communication Engineering (WSCE 2019), Nagoya, Japan, December 20–23, 2019.
@@ -18,6 +20,7 @@
 - **Yen-Chi Chen** and Shun-Shii Lin, "Design and Implementation of Computer Othello Program Maverick," The 2015 Conference on Technologies and Applications of Artificial Intelligence (TAAI 2015), Tainan, Taiwan, November 20–22, 2015.
 
 #### arXiv
+- Hsiao-Chuan Chang, ShengYou Huang, **Yen-Chi Chen**, and I-Chen Wu, "VissimRL: A Multi-Agent Reinforcement Learning Framework for Traffic Signal Control Based on Vissim", arXiv:2601.18284, January 2026.
 - Kuo-Hao Ho, Ruei-Yu Jheng, Ji-Han Wu, Fan Chiang, **Yen-Chi Chen**, Yuan-Yu Wu, and I-Chen Wu, "Residual Scheduling: A New Reinforcement Learning Approach to Solving Job Shop Scheduling Problem," arXiv: 2309.15517, September 27, 2023.
 - Tristan Cazenave, **Yen-Chi Chen**, Guan-Wei Chen, Shi-Yu Chen, Xian-Dong Chiu, Julien Dehos, Maria Elsa, Qucheng Gong, Hengyuan Hu, Vasil Khalidov, Cheng-Ling Li, Hsin-I Lin, Yu-Jin Lin, Xavier Martinet, Vegard Mella, Jeremy Rapin, Baptiste Roziere, Gabriel Synnaeve, Fabien Teytaud, Olivier Teytaud, Shi-Cheng Ye, Yi-Jun Ye, Shi-Jim Yen, and Sergey Zagoruyko, "Polygames: Improved Zero Learning," arXiv: 2001.09832, January 27, 2020.
 
